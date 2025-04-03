@@ -31,3 +31,4 @@ Puedes instalar todos los requisitos con:
 pip install -r requirements.txt
 
 repositorio https://github.com/JonathRamos/car-sales-analysis.git
+URL :http://0.0.0.0:10000
